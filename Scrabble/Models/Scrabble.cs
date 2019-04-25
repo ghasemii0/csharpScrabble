@@ -35,11 +35,7 @@ namespace Scrabble.Models
         scrabbleScore += GetPoints(letter);
       }
       return scrabbleScore;
-
     }
-
-
-
-
+    
   }
 }
