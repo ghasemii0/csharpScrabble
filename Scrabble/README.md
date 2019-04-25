@@ -10,7 +10,7 @@ _This is a console app that takes a word input from a user and calculates its sc
 
 ## Setup/Installation Requirements
 
-1. Open repo ()
+1. Open [repo](https://github.com/reese-lee/scrabble.git)
 2. Clone repo
 3. Compile and execute the program in the terminal
 
